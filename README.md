@@ -4,8 +4,7 @@
   </b>
   <br />
    <a href="https://travis-ci.com/detailyang/size"><img src="https://travis-ci.com/detailyang/size.svg?branch=master" /></a>
-   <a href="https://ci.appveyor.com/project/detailyang/size"><img src="https://ci.appveyor.com/api/projects/status/v16pdk1yhoiffq45?svg=true
-" /></a>
+   <a href="https://ci.appveyor.com/project/detailyang/size"><img src="https://ci.appveyor.com/api/projects/status/v16pdk1yhoiffq45?svg=true" /></a>
    <br />
    <b>Size represents a basic unit of measure (KB/MB/GB) like time.Duration</b>
    <ul>
