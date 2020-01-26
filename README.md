@@ -3,7 +3,7 @@
     <span style="font-size:larger;">size</span>
   </b>
   <br />
-   <a href="https://travis-ci.org/detailyang/size"><img src="https://travis-ci.org/detailyang/size.svg?branch=master" /></a>
+   <a href="https://travis-ci.com/detailyang/size"><img src="https://travis-ci.com/detailyang/size.svg?branch=master" /></a>
    <a href="https://ci.appveyor.com/project/detailyang/size"><img src="https://ci.appveyor.com/api/projects/status/v16pdk1yhoiffq45?svg=true
 " /></a>
    <br />
