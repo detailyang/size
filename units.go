@@ -92,6 +92,12 @@ func Parse(s string) (Unit, error) {
 	return 0, errors.New("units: invalid units " + s)
 }
 
+func (b *Unit) UnmarshalText(text []byte) error {
+	var err error
+	*b, err = Parse(string(text))
+	return err
+}
+
 // String returns a string representing the unit
 func (b Unit) String() string {
 	if b%10 == 0 { // KB
